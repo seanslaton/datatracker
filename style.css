@@ -1,0 +1,95 @@
+body{
+   margin: 0;
+   background-color: #778899;
+}
+
+#main-header{
+   display: flex;
+   justify-content: center;
+   background-color: #000000;
+   color: ivory;
+}
+
+#LRP-table{
+   padding-top: 100px;
+   display: flex;
+   justify-content: center;
+   position: inherit;
+}
+
+#loads-counter-button{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 36.5em;
+}
+#revenue-counter-button{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 41em;
+}
+#profit-counter-button{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 45.5em;
+}
+
+#quotes-sent-counter-button{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 35.7em;
+}
+#quotes-approved-counter-button{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 40.4em;
+}
+#quotes-doc-counter-button{
+   position: absolute;
+   padding-top:180px;
+   padding-left: 45.5em;
+}
+
+#calls-sent-counter-button{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 34.3em;
+}
+#calls-answered-counter-button{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 39em;
+}
+#emails-sent-counter-button{
+   position: absolute;
+   padding-top:180px;
+   padding-left: 43.3em;
+}
+#emails-returned-counter-button{
+   position: absolute;
+   padding-top:180px;
+   padding-left: 47.5em;
+}
+
+
+th, td{
+   border: solid 2px white;
+   border-collapse: collapse;
+   width: 60px;
+   height: 10px;
+}
+
+#SRD-table{
+   padding-top: 100px;
+   display: flex;
+   justify-content: center;
+   position: inherit;
+}
+
+#correspondace-table{
+   padding-top: 100px;
+   display: flex;
+   justify-content: center;
+   position: inherit;
+}
+
+
